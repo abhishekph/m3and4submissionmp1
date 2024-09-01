@@ -1,0 +1,4 @@
+srnum,Area,Item,Year,hg_per_ha_yield,average_rain_fall_mm_per_year,pesticides_tonnes,avg_temp
+0,Albania,Potatoes,1990,66667,10485.0,121.0,16.37
+1,India,Wheat,1995,25590,1083.0,61257.0,25.86
+2,India,Soybeans,1995,10121,1083.0,61257.0,25.86
